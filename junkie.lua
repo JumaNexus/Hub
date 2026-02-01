@@ -1,3 +1,5 @@
+local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+
 WindUI.Services.junkiedev = { Name = "Junkie Dev", Icon = "key", -- Icon dari Lucide (bisa diganti)
 
 -- Argumen yang wajib diisi di tabel API nanti
